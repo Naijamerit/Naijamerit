@@ -23,10 +23,11 @@
     <a href="https://instagram.com/naijameritofficial">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   [![](https://img.shields.io/badge/PORTFOLIO-CC6699?style=flat-square)](https://victorejiogu-portfolio.netlify.app/)                                                                                                                                  
+                                                                                                                                   
 </div>
+### PORTFOLIO:
 
-
+To see all the preview of my work, this is my [Portfolio](https://victorejiogu-portfolio.netlify.app/) 
 
 ---
 
@@ -77,7 +78,7 @@
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=naijamerit&repo=React-Search-Filter&theme=blueberry" width="400"/>
    </a>
     
-     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naijamerit&theme=dark&background=000000)](https://git.io/streak-stats)
+     [![][GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naijamerit&theme=dark&background=000000)](https://git.io/streak-stats)
 
 </p>
 
