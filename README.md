@@ -35,14 +35,14 @@
    </a>
 
    <a href="https://github.com/Naijamerit/react-quiz">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=naijameritng&repo=react-quiz&theme=blueberry" width="400"/>
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=naijamerit&repo=react-quiz&theme=blueberry" width="400"/>
    </a>
 
    <a href="https://github.com/Naijamerit/React-user-Fetch">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=naijamerit&repo=React-user-Fetch&theme=blueberry" width="400"/>
 
    <a href="https://github.com/Naijamerit/dailynote">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=naijamerit&repo=https://github.com/Naijamerit/dailynote&theme=blueberry" width="400"/>
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=naijamerit&repo=dailynote&theme=blueberry" width="400"/>
    </a>
 
    </a>
