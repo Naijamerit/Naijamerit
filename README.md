@@ -61,6 +61,9 @@
                                                                                                                                      
    <br/><br/>
 
+                                                                                                                                               
+
+                                                                                                                                               
 ## Top Repositories
 
 <p align="center">
@@ -81,6 +84,9 @@
 </p>
 
 ---
+    ## Github Stat     
+                                                                                                                                               ### :hammer_and_wrench: Languages and Tools:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naijamerit&theme=dark&background=000000)](https://git.io/streak-stats)                                                                                                                                                
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=naijamerit&theme=blueberry&hide=stars&show_icons=true" width="400"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naijamerit&theme=blueberry&layout=compact" width="400" />
