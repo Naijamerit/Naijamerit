@@ -38,10 +38,12 @@
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=naijamerit&repo=react-quiz&theme=blueberry" width="400"/>
    </a>
 
-
-   </a>
    <a href="https://github.com/Naijamerit/React-Search-Filter">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=naijamerit&repo=React-Search-Filter&theme=blueberry" width="400"/>
+   </a>
+    
+     <a href="https://github.com/Naijamerit/dailynote">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=naijamerit&repo=dailynote&theme=blueberry" width="400"/>
    </a>
 
 </p>
