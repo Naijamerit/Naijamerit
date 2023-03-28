@@ -37,7 +37,7 @@
 </p><br/>
 
 ## What I'm up to currently:computer:
-                                                                                                                                     -  😎 I'm currently a blogger <a href="https://Naijamerit.com.ng">NAIJAMERIT</a>
+-  😎 I'm currently a blogger, my blog name is Naijamerit
 -  🔭 I’m currently working on getting better as a Software Engineer.
 -  🌱 I’m currently learning a whole bunch of things.
 -  👯 I’m looking to collaborating/working on projects that are fun and exciting.
@@ -77,13 +77,12 @@
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=naijamerit&repo=React-Search-Filter&theme=blueberry" width="400"/>
    </a>
     
-    
+     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naijamerit&theme=dark&background=000000)](https://git.io/streak-stats)
 
 </p>
 
 ---                                                                                                                                               
 <p align="center">
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naijamerit&theme=dark&background=000000)](https://git.io/streak-stats)
     <img src="https://github-readme-stats.vercel.app/api?username=naijamerit&theme=blueberry&hide=stars&show_icons=true" width="400"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naijamerit&theme=blueberry&layout=compact" width="400" />
 </p>
