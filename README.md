@@ -77,11 +77,11 @@ To see all the preview of my work, this is my [Portfolio](https://victorejiogu-p
    <a href="https://github.com/Naijamerit/React-Search-Filter">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=naijamerit&repo=React-Search-Filter&theme=blueberry" width="400"/>
    </a>
-    
-     [![][GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naijamerit&theme=dark&background=000000)](https://git.io/streak-stats)
 
 </p>
+### :hammer_and_wrench: Languages and Tools:
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naijamerit&theme=dark&background=000000)](https://git.io/streak-stats)
 ---                                                                                                                                               
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=naijamerit&theme=blueberry&hide=stars&show_icons=true" width="400"/>
