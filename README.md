@@ -1,5 +1,5 @@
 <div align="center">
-    <img max-width="800" src="assets/banner.png"/>
+    <img max-width="300" src="assets/banner.png"/>
 </div>
 <br />
 
