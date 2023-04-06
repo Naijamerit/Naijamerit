@@ -39,9 +39,9 @@ To see all the preview of my work, this is my [Portfolio](https://victorejiogu-p
 
 ## What I'm up to currently:computer:
 -  😎 I'm currently a blogger, my blog name is Naijamerit
--  🔭 I’m currently working on getting better as a Software Engineer.
+-  🔭 I’m currently working on getting better as a Frontend Engineer.
 -  🌱 I’m currently learning a whole bunch of things.
--  👯 I’m looking to collaborating/working on projects that are fun and exciting.
+-  👯 I’m looking to collaborating/working on projects that creates solution to the society.
 -  📫 You can reach me via my [email](mailto:victor.ejiogu@ust.edu.ng) or my socials above.
 - 💥Technology: As a frontend developer, my tech stacks include: 
 <div>
