@@ -8,7 +8,7 @@
 <h2> Connect with me </h2>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ejioguvictor/">
+  <a href="https://www.linkedin.com/in/victor-ejiogu-b7487b291/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <a href="mailto:chibuzord96@gmail.com>
